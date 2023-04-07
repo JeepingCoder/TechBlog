@@ -1,6 +1,15 @@
 # Techblog
 Techblog is a CMS-style blog site for users to cometegther and get their tech on. Its designed to have to have a forum for new ideas, improving old ideas and just general tech. 
 
+# Important Links
+
+## Heroku Deployment
+https://patrickstechblog.herokuapp.com/
+
+## Github repository
+https://github.com/JeepingCoder/Techblog
+
+
 ## Table Of Contents
 
 # 1. Installation
