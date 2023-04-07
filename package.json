@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "sequelize": "^6.30.0",
+    "sqlite3": "^5.1.6"
+  }
+}
